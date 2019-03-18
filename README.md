@@ -40,6 +40,8 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 
 
 ### Platforms
+- [Bugdiscover](https://bugdiscover.com)
+- [yeswehack](https://yeswehack.com/)
 - [intigriti](https://intigriti.com/)
 - [HackerOne](https://hackerone.com/)
 - [Bugcrowd](https://bugcrowd.com/)
